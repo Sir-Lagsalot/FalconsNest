@@ -1,5 +1,5 @@
 # FalconsNest
-##North Sydney Boys Online Canteen Reservation Service
+##Online Canteen Reservation Service
 
 Django based School Canteen Service!
 
